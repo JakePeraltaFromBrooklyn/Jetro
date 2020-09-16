@@ -5,3 +5,11 @@ body{
 header{
 	background-color: red;
 }
+
+footer{
+	background-color: blue;
+}
+
+section{
+	background-color:yellow;
+}
